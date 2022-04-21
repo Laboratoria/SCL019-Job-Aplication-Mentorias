@@ -1,225 +1,144 @@
-# Guía para Entrevistadores
+# Proyecto Job Application
 
-## Antes de comenzar
+## Contexto Laboratoria y Bootcamp 
+ 
+En Laboratoria trabajamos para revertir las desigualdades a las que se
+enfrentan las mujeres para acceder a empleos de calidad en la economía digital
+de Latinoamérica.
 
-A continuación, hemos elaborado una pequeña guía para las entrevistas, así como
-algunas preguntas teóricas y prácticas para que te sirvan de base. Recuerda que
-puedes adaptarte y centrarte en las preguntas que quieras, pero intenta siempre
-mantenerte dentro de la currícula del _bootcamp_ para que se sientan cómodas
-contestando.
+Tenemos un bootcamp innovador, de clase mundial y con grandes resultados a nivel
+de aprendizaje y colocación laboral, que está cerrando la brecha de talento y de
+género en el sector tech latinoamericano.
+ 
+El aprendizaje en el bootcamp de Laboratoria sucede de manera “no tradicional”.
+Creemos en impactar la educación con un aprendizaje que motiva, empodera y
+transforma a las personas. Para poder compartirte los principios de nuestro
+modelo de aprendizaje y que puedas conocer un poco más de la experiencia que
+ellas viven durante el bootcamp, hemos preparado
+[este video](https://www.loom.com/share/430829fb4e3949daa77824e6a75cbf4c).
 
-Muchas gracias por todo su apoyo y ayuda, significa mucho para nosotras y aún
-más para todas las estudiantes. ¡Es un paso extremadamente esencial en este
-viaje y una experiencia que cambia la vida! 💛
+El foco central de nuestra currícula es un catálogo de proyectos de complejidad
+gradualmente creciente, y asociados a objetivos de aprendizaje concretos. Tanto
+la ruta de proyectos elegida como la duración y alcance de cada uno, dependerá
+de las necesidades, intereses y ritmo de aprendizaje de cada estudiante. Esto
+significa que no se espera que todas hagan los mismos proyectos, ni la misma
+cantidad de proyectos. Eso sí, se espera que se complete por lo menos un
+proyecto de cada uno de los niveles 0 al 4, habiendo cumplido con la mayoría de
+objetivos de aprendizaje correspondientes. Puedes revisar la currícula de
+desarrollo web en este [link](https://curriculum.laboratoria.la/es/js). 
 
-## Sobre la dinámica
+## Preámbulo del proyecto
 
-La idea es simular un escenario de entrevista con nuestras estudiantes. Sabemos
-que las entrevistas técnicas suelen ser las más estresantes, así que la idea es
-simular un escenario _"crítico"_ que puedan encontrar en la vida real.
+Las estudiantes de Laboratoria decidieron iniciar su carrera en tecnología
+como desarrolladoras web. Si bien el objetivo del Bootcamp es que se preparen
+para trabajar, no es suficiente con sólo desarrollar proyectos de código a
+medida que adquieren habilidades técnicas y de vida, para que puedan conseguir
+su primer trabajo.
+ 
+Este proyecto llamado Job Application tiene como objetivo que las estudiantes
+vivan una experiencia práctica que les permita prepararse para los futuros
+procesos de selección en los que participarán.
 
-Debes actuar en este papel de entrevistadorx, haciéndoles estas preguntas/retos
-a lo largo de la dinámica. Al final de la entrevista es necesario que envies
-_feedback por correo electrónico_ a las estudiantes sobre su desempeño y llenar
-un [_scorecard_](https://docs.google.com/forms/d/e/1FAIpQLSc-0bWMbwXP4HyVdOMcDixww0lhBlTn_lUbZkqvqv4PoDE4sQ/viewform) con la
-evaluación de la entrevista que solo revisará el equipo de Laboratoria.
+Estos procesos son tan diversos como las empresas a las que podrían aplicar. Es
+por esto que hemos intentado diseñar una experiencia representativa de la
+industria, basada en lo que hemos aprendido acompañando a las más de 2,400
+egresadas de Laboratoria. Tú participación es clave porque les permitirá tener
+un acercamiento inicial a la búsqueda de empleo, que intentaremos sea lo más
+real posible.
+## Mentorías durante el proyecto
 
-Todo el guión de preguntas propuestas que tenemos aquí es sólo una base. Puedes
-adaptarlo y aplicarlo como creas conveniente.
+La participación de personas voluntarias como tú en el proyecto de Job
+Application, sucederá a través de mentorías y entrevistas de simulación que
+permitirá a las estudiantes tener una experiencia que las prepare para que
+llegado el momento, estén listas para la búsqueda de su primer empleo en
+tecnología.
+ 
+Las actividades estarán divididas en sesiones de revisión y feedback de sus
+herramientas de perfil profesional (CV, LinkedIn y Github Profile) y en
+simulaciones de entrevistas de recursos humanos y entrevistas técnicas.
+## La dinámica de las mentorías y simulaciones
 
-Imaginamos que cada entrevista debería durar entre **30~60min**.
+Si bien algunas actividades serán agendadas entre mentora o mentor y su mentee,
+todas sucederán en el marco de tiempo establecido por Laboratoria para poder así
+alcanzar los objetivos generales del proyecto. Las fechas exactas las conocerás
+en una sesión que describimos más adelante o podrás escribir un correo
+electrónico a la persona de contacto de Laboratoria que te hizo llegar la
+invitación.
 
-## Objetivo
+## Mentorías de Recursos Humanos
 
-Esta dinámica tiene 2 objetivos principales:
-* El primero, como comentábamos al principio, es que las estudiantes tengan la
-  posibilidad de tener **una experiencia de postulación** lo más parecida a una
-  real, dentro del marco del Bootcamp.
-* El segundo es conocer tu perspectiva sobre el **potencial de la candidata**,
-  en particular alrededor de estos tres puntos:
-  - Conocimiento/entendimiento del desarrollo de software, en particular
-    Javascript.
-  - Estrategias de análisis y solución de problemas. ¿Cómo se enfrentó al/los
-    ejercicio/s?
-  - Comunicación. La claridad para explicar su estrategia, el uso de términos
-    técnicos, experiencia y propuesta de solución.
+Quiénes participen de las **mentorías y simulaciones de entrevistas de recursos
+humanos**, invertirán alrededor de _5 y 6 horas en total_ para gestionar y
+realizar sesiones con las estudiantes, así como para documentar feedback para
+ellas y el equipo de Laboratoria.
 
-## La dinámica
+* 1 sesión de Q&A sobre el programa. Espacio programado por el equipo de
+ Laboratoria para resolver sus dudas sobre la dinámica y en la que no
+ participarán aún las estudiantes.
+* 2 sesiones de revisión y feedback de herramientas (1 sesión para el CV y 1 sesión para el LinkedIn)con la primera estudiante
+ que te hayamos asignado como mentee. 
+  - Sesión 1: _Meet & greet_ + revisión y feedback de CV. Espacio programado por
+  el equipo de Laboratoria que se dividirá en 2 momentos:
+    * Dinámica para conocer a la estudiante que será tu mentee.
+    * Revisión y feedback de CV 
+  - Sesión 2: Revisión y feedback de LinkedIn y feedback. Espacio programado
+  por la estudiante directamente con su mentora o mentor.
+* 1 simulación de entrevista de recursos humanos. Actividad programada por una
+ estudiante distinta a quién acompañaste durante las sesiones de revisión de
+ herramientas, esto lo hacemos para que la experiencia sea lo más parecido a la
+ realidad y ella pueda tener una entrevista con una persona que recién está
+ conociendo. La coordinación de la sesión será a través de un correo en el que
+ manifiesta su interés por aplicar a la vacante, como sucede en algunos
+ procesos de reclutamiento abiertos.
 
-Conviene recordar que todas las estudiantes tienen un bagaje muy diferente antes
-de entrar a Laboratoria. La mayoría de ellas tienen experiencias en ámbitos
-totalmente diferentes y siempre vale la pena iniciar una conversación distendida
-para _"romper el hielo"_ y que se sientan más cómodas.
+**En este [apartado](../01-hr-mentoring/interviewer-guide/README.md)
+podrás consultar los objetivos a alcanzar con la
+revisión y feedback de herramientas y con la simulación.**
 
-Puedes preguntarles sobre su trayectoria, los proyectos que ya han desarrollado
-y lo que han aprendido hasta ahora. También es interesante terminar la dinámica
-preguntando si la "postulante" tiene alguna duda sobre el mercado (ya que es
-algo muy nuevo para ella) y hacerla sentir bienvenida durante la dinámica.
+|                    Actividades                      |   Tipo   | Semana   | Día/hora |
+|-----------------------------------------------------|----------|----------|---------:|
+| Sesión de Q&A sobre el programa.                    |   Fija   |          |          |
+| Sesión de Meet & Greet y revisión y feedback de CV. |   Fija   |          |          |
+| Sesión de revisión y feedback de LinkedIn.          | Abierta  |          |          |
+| Simulación de entrevista de recursos humanos.       | Abierta  |          |          |
+| Envío de formulario de feedback al equipo           | Abierta  |          |          |
 
-El espacio de simulación de la entrevista es totalmente abierto. Queremos que la
-experiencia sea disfrutable, tanto para tí como para ellas.
+## Mentorías Técnicas 
 
-De todas maneras te dejamos una guía con las etapas que recomendamos:
+Quiénes participen de las **simulaciones de entrevistas técnicas y de la
+revisión y feedback de su Github profile**, invertirán alrededor de _2 y 3 horas
+en total_ para gestionar y realizar sesiones con las estudiantes, así como para
+documentar feedback para ellas y el equipo de Laboratoria. 
 
-- **Contexto**
+* 1 sesión de Q&A sobre el programa. Espacio programado por el equipo de
+ Laboratoria para resolver sus dudas sobre la dinámica y en la que no
+ participarán aún las estudiantes.
+* 1 simulación de entrevista técnica. Actividad programada por la o las
+ estudiantes (según sea el caso) a través de un correo que simulará su interés
+ por aplicar a la vacante, como sucede en algunos procesos de reclutamiento
+ abiertos.
 
-  Antes de ponerte en modo entrevistadorx es importante recordarle a la
-  estudiante que esta es una entrevista de práctica, es sobre todo para
-  identificar qué haría en una entrevisa real, cómo se comportaría si se pone
-  nerviosa, o que recursos puede usar para controlar o manejar esas situaciones.
+En este [apartado](./interviewer-guide/README.md)
+podrás consultar los objetivos alcanzar con la
+simulación y revisión y feedback de su Github profile. Para este apartado
+todavía estamos terminando de definir algunos detalles.
 
-- **Intro**
+|                 Actividades                  |   Tipo   | Semana   | Día/hora |
+|----------------------------------------------|----------|----------|---------:|
+| Sesión de Q&A sobre el programa.             |   Fija   |   21/04  |  18:00   |
+| Simulación de entrevista técnica.            | Abierta  |25/04 al 06/05|          |
+| Envío de feedback escrito a estudiante.      | Abierta  |Entre la finalización de la entrevista hasta el 6 de Mayo.|          |
+| Envío de formulario de feedback al equipo.   | Abierta  |Entre la finalización de la entrevista hasta el 6 de Mayo.|          |
 
-  Aquí ya comienza la entrevista y lo primero es dejarle claro a la candidata
-  cuál será la estrucutura de este espacio, por ejemplo:
-  
-  > _"Te comento el proceso: al comienzo te pediré que te presentes, me cuentes
-  un poco sobre tí y por qué estás postulando a este puesto, luego te haré una
-  serie de preguntas conceptuales, y por último resolveremos 1 o 2 ejercicios de
-  código"_.
+## Consideraciones generales
 
-- **Presentación**
-
-  En este punto, ya en modo entrevistadorx, te presentas y la invitas a ella a
-  que se presente. El foco aquí es que su presentación sea breve, clara y aporte
-  al puesto al que postula, por lo que siéntete en libertad de hacerle las
-  preguntas que consideres relevantes.
-
-- **Preguntas Conceptuales**
-
-  El objetivo de este espacio es validar el nivel de entendimiento de ciertos
-  conceptos por parte de la estudiante, asi cómo su capacidad de expresión
-  usando términos técnicos.
-
-  Este es un buen punto para identificar el nivel de confianza con la que llega
-  la candidata y te puede ayudar a decidir la dificultad y tipo de
-  ejercicio que quieres proponerle.
-  
-  Al momento de hacer las preguntas, recuerda vocalizar los términos con
-  claridad, y si es necesario compartir tu pantalla con la pregunta, para que
-  quede claro el término por el cual se le está preguntando.
-
-  Aquí puedes encontrar una lista de [preguntas conceptuales](./questions.md)
-  que puedes usar. Te recomendamos estar familiarizadx con ellas antes de las
-  entrevistas.
-
-- **Ejercicios**
-
-  El objetivo de esta etapa es ver cómo se enfrenta la estudiante a la
-  resolución en tiempo real de un ejercicio de código: si plantea su
-  razonamiento de forma clara, si hace preguntas en relación al enunciado para
-  terminar de entenderlo, si se lanza a codear de frente sin ninguna estrategia,
-  etc.
-
-  La recomendación es comenzar con algún ejercicio rápido y fácil para darte una
-  idea del nivel de la estudiante, y de ahí pasar a un segundo ejercicio que
-  represente un desafío mayor.
-  
-  Aquí puedes encontrar un [resumen de algunos
-  ejercicios](./exercises/README.md) que puedes usar. Es importante que,
-  dependiendo de tus primeras impresiones, intentes elegir ejercicios relevantes
-  para el perfil, por lo cual te recomendamos familiarizarte con ellos antes de
-  la entrevista.
-  
-  Puntos importantes a tener en cuenta:
-  - Dependiendo del desempeño en el primer ejercicio, evalúa si realmente tiene
-    sentido hacer un segundo: pueden haber casos en que la estudiante se
-    bloquea, o no cuenta con las capacidades para resolver inclusive ejercicios
-    muy fáciles. En estos escenarios otro ejercicio puede solamente empeorar la
-    experiencia.
-  - Quizás sea importante que le recuerdes el tiempo que le queda para que lo
-    tenga presente.
-  - Si percibes que la estudiante no ha terminado de entender el enunciado, o lo
-    ha entendido mal, quizás la puedes ayudar con algunas preguntas o nuevos
-    casos de tests para que ajuste de manera temprana su solución.
-  - Recuerda que estamos "simulando" una entrevista real, por más que te mueras
-    de ganas, intenta no brindarle _demasiada_ ayuda.
-  - Ten en cuenta que estas entrevistas no son un _memory contest_, y que es
-    totalmente válido si la estudiante acude a Google en busca de ayuda, sobre
-    todo si es documentación o foros. Observar claramente qué busca, nos sirve
-    para evaluar cómo investiga.
-  - Si eliges ejercicios distintos a los propuestos, asergúrate que tengan
-    dificultades, topics y duración similares.
-
-- **Cierre**
-
-  Aquí llega la entrevista a su fin, recuerda agradecerle por su tiempo y
-  recordarle que dentro de un plazo no mayor a 2 días, le harás llegar por
-  escrito a su correo el feedback de la entrevista. Recuerda copiar en este
-  correo al equipo de Laboratoria.
-
-- **Salida** (opcional)
-
-  Aquí ya fuera de tu rol de entrevistadorx, puedes aprovechar para darle
-  feedback general sobre su desempeño o los puntos que consideres más
-  relevantes, así como levantar sus percepciones y sensaciones de lo que acaba
-  de suceder. Ten en cuenta que esta etapa **no reemplaza** al feedback por
-  escrito que enviarás a su correo.
-
-## Feedback
-
-Habrán 2 tipos de feedback que te pediremos al final de la dinámica, idealmente
-1 a 2 días después de la simulación:
-
-1)**Feedback hacia la estudiante** que enviarás por correo con algunos aspectos
-en concreto que te recomendamos:
-
-Siguiendo la estructura del scorecard, tómate un momento para dar tu feedback
-sobre cada bloque. Es muy importante que en cada sección refuerces tanto los
-**aspectos positivos** como aquellos que **necesitan mejorarse**.
-
-Además, sería valioso que puedas darle tu apreciación sobre sus respuestas de la
-forma más objetiva posible, comunicándole el impacto que tiene dicho concepto o
-skill en su perfil o la importancia del mismo para su desempeño como Frontend
-Developer. 
-
-En caso existan aspectos que necesite reforzar, intenta colocar referencias a
-recursos relevantes a los que pueda sacarle valor rápidamente.
-
-#### Profesionalismo
-- ¿Se mostró predispuesta y proactiva para la coordinación de la entrevista?
-- ¿Llegó puntual?
-
-#### Presentación
-- ¿Cómo calificas las presentación que hizo de sí misma?
-
-#### Preguntas conceptuales
-- ¿Cómo calificas sus respuestas a las preguntas conceptuales?
-
-#### Ejercicios prácticos
-- ¿Completó el 1er ejercicio?
-- ¿Completó el 2ndo ejercicio?
-- ¿Compartió su razonamiento y estrategias de solución de forma asertiva?
-
-#### Perfil de Github
-- ¿Cómo calificas su perfil de Github?
-- ¿Cómo podría mejorarlo?
-
-Y por último compartirle si es que detectaste en su actitud algo notable o algo
-por trabajar (seguridad, nervios, fluidez en sus ideas, etc.), recomendar
-algunas cosas, pero también mencionar que esto es algo normal. Incluso si
-quieres empatizar y mencionar lo que te ha ocurrido a ti y cómo lo trabajaste,
-sería genial.
-
-Vale la pena mantener siempre **un tono positivo** en la retroalimentación y
-tratar de proporcionar **información concreta** y, si es posible, **enlaces,
-recursos y/o contenidos** si crees que vale la pena que el estudiante se enfoque
-en los puntos que podría mejorar.
-
-2)**Feedback hacia el equipo**, el que realizarás a través de un 
-[_score card_](https://docs.google.com/forms/d/e/1FAIpQLSc-0bWMbwXP4HyVdOMcDixww0lhBlTn_lUbZkqvqv4PoDE4sQ/viewform) que te pedirá evaluar
-su desempeño en los distintos aspectos que integran la simulación y dejarnos
-recomendaciones para el equipo.
-
-## Fin
-
-Gracias por participar de la preparación de mujeres que sueñan con un futuro
-mejor y con comenzar una carrera transformadora en tecnología.
-
-Esta etapa del Bootcamp es extremadamente importante para las estudiantes y el
-impacto que personas como tú tienen en su  crecimiento profesional es enorme.
-
-Si tienes **alguna pregunta**, por favor, no dudes en ponerte en contacto con el
-equipo.
-
-**De parte de Laboratoria, nuestro más sincero agradecimiento 💛**.
+* Este es un proyecto individual que las estudiantes irán avanzando en paralelo
+ a los otros proyectos del Bootcamp. 
+* Este proyecto a diferencia de los otros que desarrollan durante el bootcamp,
+ tendrá para las estudiantes etapas y un calendario con algunas fechas pre
+ establecidas. En lo que se parecen es que las estudiantes contarán con una
+ serie de recursos que podrán consultar como guía y que seguirán contando con
+ el acompañamiento del equipo a través de ayudantías y feedback a lo largo del
+ avance del proyecto. 
+* Es el único proyecto en el que tienen vínculo con personas externas que se
+ unen al bootcamp para apoyar tu aprendizaje en el proyecto. 
