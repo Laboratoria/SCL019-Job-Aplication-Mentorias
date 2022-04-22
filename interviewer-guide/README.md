@@ -99,7 +99,7 @@ De todas maneras te dejamos una guía con las etapas que recomendamos:
   claridad, y si es necesario compartir tu pantalla con la pregunta, para que
   quede claro el término por el cual se le está preguntando.
 
-  Aquí puedes encontrar una lista de [preguntas conceptuales](./questions.md)
+  Aquí puedes encontrar una lista de [preguntas conceptuales](../questions.md)
   que puedes usar. Te recomendamos estar familiarizadx con ellas antes de las
   entrevistas.
 
